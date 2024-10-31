@@ -13,7 +13,7 @@ Clona este repositorio en tu máquina local:
 
  ```
  git clone https://github.com/alvinis/retoIberoStar.git
- cd Iberostar
+ cd retoIberoStar
  ```
 
 ### 2. Construir la imagen Docker
