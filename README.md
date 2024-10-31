@@ -12,7 +12,7 @@ Este proyecto contiene una aplicación de Spring Boot que se ejecuta en Docker.
 Clona este repositorio en tu máquina local:
 
  ```
- git clone [https://github.com/alvinis/retoIberoStar ](https://github.com/alvinis/retoIberoStar.git)
+ git clone https://github.com/alvinis/retoIberoStar.git
  cd Iberostar
  ```
 
