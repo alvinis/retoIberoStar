@@ -32,7 +32,7 @@ Ejecuta el siguiente comando en la terminal para construir la imagen Docker. Ase
 ```
 docker build -t iberostar .
 ```
-### 3. Ejecutar el contenedor
+### 4. Ejecutar el contenedor
 
 Inicia un contenedor desde la imagen creada y mapea el puerto `8080` del contenedor al puerto `8080` de tu máquina local:
 
