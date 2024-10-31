@@ -5,7 +5,7 @@ Este proyecto contiene una aplicación de Spring Boot que se ejecuta en Docker.
 ## Requisitos
 
 - [Docker](https://www.docker.com/products/docker-desktop)
-- [Maven] (https://maven.apache.org/download.cgi)
+- [Maven](https://maven.apache.org/download.cgi)
 ## Pasos para ejecutar la aplicación en Docker 
 
 ### 1. Clonar el repositorio
