@@ -16,7 +16,15 @@ Clona este repositorio en tu máquina local:
  cd retoIberoStar
  ```
 
-### 2. Construir la imagen Docker
+### 2. Construir proyecto maven
+
+Ejecutar el siguiente comando en la terminal para construir el proyecto.
+
+ ```
+ mvn clean package
+ ```
+
+### 3. Construir la imagen Docker
 
 Ejecuta el siguiente comando en la terminal para construir la imagen Docker. Asegúrate de estar en el directorio raíz del proyecto, donde se encuentra el archivo `Dockerfile`:
 
